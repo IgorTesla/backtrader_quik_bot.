@@ -1,0 +1,1 @@
+python C:\Users\user\PycharmProjects\BOT_Fractals_v2.0(60min)\Fractal_Strategy.py
